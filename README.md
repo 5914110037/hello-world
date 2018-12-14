@@ -1,3 +1,2 @@
 # hello-world
-just another repository
-...
+ITEC1307 E-commerce
